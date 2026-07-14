@@ -1,0 +1,45 @@
+{
+  "match_id": "001",
+  "date": "2026-07-15",
+
+  "teams": {
+    "home": "主队",
+    "away": "客队"
+  },
+
+  "spf": {
+    "win": 0,
+    "draw": 0,
+    "lose": 0
+  },
+
+  "handicap": {
+    "win": 0,
+    "draw": 0,
+    "lose": 0
+  },
+
+  "score_odds": {
+    "1:0": 0,
+    "2:0": 0,
+    "2:1": 0
+  },
+
+  "other_score": {
+    "win_other": 0,
+    "lose_other": 0
+  },
+
+  "goals": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+
+  "result": {
+    "score": ""
+  }
+}
